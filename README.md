@@ -19,4 +19,4 @@ The stack technologies used are:
 
 ## 2. Web Example
 You can view the app online here : 
-xxx
+https://vescartinq.github.io/PASAPALABRA-FC_Barcelona-JAVASCRIPT/
