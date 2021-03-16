@@ -1,7 +1,7 @@
 # PASAPALABRA-skylab-challenge-JAVASCRIPT
 ***
 
-![pasapalabra-avengersPro](https://user-images.githubusercontent.com/65297719/111344841-08b44d00-867d-11eb-9f40-8d42195e10ae.jpg)
+![pasapalabra-fcb](https://user-images.githubusercontent.com/65297719/111345976-11595300-867e-11eb-897a-93d54ded881b.jpg)
 
 ## Table of Contents
 1. [General Info](#general-info)
